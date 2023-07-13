@@ -1,0 +1,13 @@
+name: ShinyPresentation
+title: ShinyPresentation
+username:
+account: danny2983
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9452569
+bundleId: 7453435
+url: https://danny2983.shinyapps.io/ShinyPresentation/
+when: 1689268306.05622
+lastSyncTime: 1689268306.05625
+asMultiple: FALSE
+asStatic: FALSE
